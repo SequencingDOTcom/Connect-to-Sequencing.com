@@ -1,2 +1,2 @@
-# Connect-to-Sequencing.com
+# Connect to Sequencing.com
 Coming soon
