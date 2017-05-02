@@ -1,6 +1,6 @@
 # Connect to Sequencing.com
 
-#Introduction
+# Introduction
 
 Sequencing allows third party sites to upload genetic data files to Sequencing.com. Sequencing facilitates the process of the import by providing several scenarios for third party site users
 
@@ -9,7 +9,7 @@ Seamless account creation. When a user of the third party site decides he or she
 
 In order to implement “Connect to Sequencing” functionality - third party sites are required to complete integration that consist of two parts. Backend integration encompasses the features for rendering correct request json string and encryption of it, whereas frontend widget will take care of user interface and interaction.
 
-#Backend integration
+# Backend integration
 
 Reffer to file backend.php
 
@@ -23,7 +23,7 @@ email : email of the account, to which the file will be imported
 
 files: array of files that holds following information
 
-#Frontend Widget 
+# Frontend Widget 
 
 Reffer to file widget.html
 
