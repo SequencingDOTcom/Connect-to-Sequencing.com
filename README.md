@@ -9,6 +9,8 @@ Seamless account creation. When a user of the third party site decides he or she
 
 In order to implement “Connect to Sequencing” functionality - third party sites are required to complete integration that consist of two parts. Backend integration encompasses the features for rendering correct request json string and encryption of it, whereas frontend widget will take care of user interface and interaction.
 
+Complete documentation can be found here https://sequencing.com/developer-documentation/connect-to-sequencing.com
+
 # Backend integration
 
 Reffer to file backend.php
