@@ -9,7 +9,7 @@ Connect to Sequencing.com enables sites and apps that generate, process and/or s
 * Earn recurring royalties from Sequencing.com
   * Whenever the user purchases an app in Sequencing.com's App Market and uses the genetic data file that was imported from your site or app, you earn a percentage of that sale
 
-Connect to Sequencing.com codebase allows your site or app to import genetic data files directly into a user accounts at Sequencing.com. Sequencing.com facilitates the process of the import by providing several scenarios for users of your site or app.
+Connect to Sequencing.com codebase allows your site or app to import genetic data files of any size directly and securely into a user accounts at Sequencing.com. Sequencing.com facilitates the process of the import by providing several scenarios for users of your site or app.
 
 Seamless account creation. When a user of the third party site decides he or she wants to connect their genetic data files with Sequencing.com - it is not required for the user to have an account on Sequencing.com beforehand. When the 'Connect to Sequencing.com' button is clicked, a modal window will open stating “A welcome message with further instructions has been sent to your e-mail address.” and showing the screen below
 
