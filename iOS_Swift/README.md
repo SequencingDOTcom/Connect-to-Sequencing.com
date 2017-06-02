@@ -1,2 +1,3 @@
 The documentation can be found at https://sequencing.com/developer-documentation/connect-to-sequencing.com#/connect-sequencingcom/iOS_Swift.
+
 The codebase can be found [at the master plugin PLUG-N-PLAY repo for Swift](https://github.com/SequencingDOTcom/RTP-API-iOS-Swift-Master-Plugin-Plug-n-Play-Sample).
