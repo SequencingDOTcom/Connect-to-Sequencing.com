@@ -3,10 +3,10 @@
 # Introduction
 
 Connect to Sequencing.com enables sites and apps that generate, process and/or store genetic data to:
-* offer your users a free, one-click option to store a copy of their genetic data at Sequencing.com
+* Offer your users a free, one-click option to store a copy of their genetic data at Sequencing.com
   * Storage is free, unlimited and HIPAA-compliant (secure and confidential)
   * We don't sell, trap or exploit the data in any way
-* earn recurring royalties from Sequencing.com
+* Earn recurring royalties from Sequencing.com
 
 Connect to Sequencing.com codebase allows your site or app to import genetic data files directly into a user accounts at Sequencing.com. Sequencing.com facilitates the process of the import by providing several scenarios for users of your site or app.
 
