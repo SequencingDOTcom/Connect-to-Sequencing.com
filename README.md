@@ -39,3 +39,7 @@ files: array of files that holds following information
 Reffer to file widget.html
 
 The code snippet in this file simply references the javascript code needed for the button to function and introduces new <div> element which will appear as “Connect to Sequencing.com” button
+
+Maintainers
+======================================
+This repo is actively maintained by [Sequencing.com](https://sequencing.com/). Email the Sequencing.com bioinformatics team at gittaca@sequencing.com with questions and feedback.
