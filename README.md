@@ -15,8 +15,8 @@ In order to implement “Connect to Sequencing.com” functionality:
 1) [register for a free Sequencing.com account](https://sequencing.com/user/register)
 2) [Generate an OAuth2 secret by selecting the "Free" plan](https://sequencing.com/plans)
 3) Add the Connect to Sequencing.com code to your site
-* Backend integration: encompasses the features for rendering correct request json string and encryption of it*
-* frontend widget will take care of user interface and interaction.
+* Backend integration: provides the features for rendering correct request json string including encryption
+* Frontend widget: provides user interface and interaction.
 
 Complete documentation can be found at https://sequencing.com/developer-documentation/connect-to-sequencing.com
 
