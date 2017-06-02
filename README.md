@@ -6,6 +6,7 @@ Connect to Sequencing.com enables sites and apps that generate, process and/or s
 * Offer your users a free, one-click option to store a copy of their genetic data at Sequencing.com
   * Storage is free, unlimited and HIPAA-compliant (secure and confidential)
   * We don't sell, trap or exploit the data in any way
+  
 * Earn recurring royalties from Sequencing.com
   * Whenever the user purchases an app in Sequencing.com's App Market and uses the genetic data file that was imported from your site or app, you earn a percentage of that sale
 
