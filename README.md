@@ -12,7 +12,7 @@ Seamless account creation. When a user of the third party site decides he or she
 
 In order to implement “Connect to Sequencing.com” functionality:
 
-1) [register for a free Sequencing.com account](https://sequencing.com/user/register)
+1) [Register for a free Sequencing.com account](https://sequencing.com/user/register)
 2) [Generate an OAuth2 secret by selecting the "Free" plan](https://sequencing.com/plans)
 3) Add the Connect to Sequencing.com code to your site
 * Backend integration: provides the features for rendering correct request json string including encryption
