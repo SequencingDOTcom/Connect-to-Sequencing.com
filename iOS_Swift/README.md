@@ -1,3 +1,6 @@
-The documentation can be found at https://sequencing.com/developer-documentation/connect-to-sequencing.com#/connect-sequencingcom/iOS_Swift.
+The codebase for Connect to Sequencing.com for iOS Swift has been integrated into the codebase for Sequencing.com's Real-Time Personalization (+RTP) API. You can use the Connect to Sequencing.com functionality alone (i.e. if you don't have to use any other parts of the +RTP API) or in-combination with all of the other functionality provided by the +RTP API. 
 
-The codebase can be found [at the master plugin PLUG-N-PLAY repo for Swift](https://github.com/SequencingDOTcom/RTP-API-iOS-Swift-Master-Plugin-Plug-n-Play-Sample).
+* [Documentation for Connect to Sequencing.com in iOS Swift](https://sequencing.com/developer-documentation/connect-to-sequencing.com#/connect-sequencingcom/iOS_Swift)
+
+
+* [Repo containing plug-n-play code for iOS Swift](https://github.com/SequencingDOTcom/RTP-API-iOS-Swift-Master-Plugin-Plug-n-Play-Sample)
